@@ -1,9 +1,18 @@
-# About me 
+# About me 
 
-👋 Hi there!, I'm Duc Nguyen, a sophomore studying Computer Science at the University of Illinois Chicago. 
+👋 Hi there!, I'm Duc Nguyen, a sophomore studying Computer Science at the University of Illinois Chicago. 
 
-🧠 Passion & Focus: Ever since I started coding, I’ve been fascinated by how numbers can reveal patterns and drive smarter decisions. That interest has grown into a strong passion for data analytics and machine learning.
+🧠 Passion & Focus: Ever since I started coding, I’ve been fascinated by how numbers can reveal patterns and drive smarter decisions. That interest has grown into a strong passion for **Data Analytics** and **Machine Learning**.
 
-🛠️ I’m building my skills through coursework and projects, using tools like Python, Pandas, NumPy, and scikit-learn to analyze and model data. 
+🛠️ I’m building my skills through coursework and projects, using tools like **Python**, **Pandas**, **NumPy**, and **scikit-learn** to analyze and model data. 
 
-🚀 I’m eager to apply my knowledge through internships and collaborative projects that turn raw data into real-world insights.
+🚀 I’m eager to apply my knowledge through **internships** and collaborative projects that turn raw data into real-world insights.
+
+---
+
+### 🌟 Currently project
+
+| Collaboration / Project Type | Project Link & Name |
+| :--- | :--- |
+| **Electronic Visualization Lab (EVL)** | **[urban-toolkit/curio](https://github.com/urban-toolkit/curio)** |
+| **Individual Deep Learning Project** | **[AI-Headshot](https://github.com/ducnt2406/AI-Headshot)** |
