@@ -14,5 +14,5 @@
 
 | Collaboration / Project Type | Project Link & Name |
 | :--- | :--- |
-| **Electronic Visualization Lab (EVL), Univerity of Illinois Chicago** | **[urban-toolkit/curio](https://github.com/urban-toolkit/curio)** |
-| **Individual Project** | **[AI-Headshot](https://github.com/ducnt2406/AI-Headshot)** |
+| Electronic Visualization Lab (EVL), Univerity of Illinois Chicago | [urban-toolkit/curio](https://github.com/urban-toolkit/curio) |
+| Individual Project | [AI-Headshot](https://github.com/ducnt2406/AI-Headshot) |
