@@ -1,4 +1,4 @@
-### About me 
+### 👤 About me 
 
 👋 Hi there!, I'm Duc Nguyen, a sophomore studying Computer Science at the University of Illinois Chicago. 
 
