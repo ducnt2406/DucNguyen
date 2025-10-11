@@ -12,7 +12,7 @@
 
 ### 🌟 Project I'm currently working
 
-| Collaboration / Project Type | Project Link & Name |
+| Contribution | Project Link & Name |
 | :--- | :--- |
 | Group | [urban-toolkit/curio](https://github.com/urban-toolkit/curio) |
 | Individual | [AI-Headshot](https://github.com/ducnt2406/AI-Headshot) |
